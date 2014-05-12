@@ -1,6 +1,6 @@
 This repo contains all the initial requirements for getting started out Vagrant.
 
-Vagrant provides easy to configure, reproducible, and portable work environments built on top of standard technology to provide a consistent environemnt for everybody in th team.
+Vagrant provides easy to configure, reproducible, and portable work environments built on top of standard technology to provide a consistent environment for everybody in the team.
 
 
 How to get started 
