@@ -1,4 +1,4 @@
-This repo contains all the initial requirements for getting started out Vagrant.
+This repo contains all the initial requirements for getting started with Vagrant.
 
 Vagrant provides easy to configure, reproducible, and portable work environments built on top of standard technology to provide a consistent environment for everybody in the team.
 
@@ -19,13 +19,13 @@ How to get started
 
 3)Getting Started
 
-3.1 For starting up vagrant.This triggers the downlaod of presetup Vagrant image first time and relaunching the setup next time  
-
 ---> Vagrant up
 
-3.2 For connecting to the virtual machine
+3.1 For starting up Vagrant.This triggers the download of presetup Vagrant image first time and relaunching the setup other times. 
 
 ---> vagrant ssh
+
+3.2 For connecting to the virtual machine
 
 4)Sharing
 
